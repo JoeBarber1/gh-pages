@@ -1,0 +1,320 @@
+.topbar {
+	width: 100%;
+	height: 200px;
+	background-color: #dbc64e;
+	font-size: 100px;
+	text-align: center;
+	font-family: 'Kaushan Script', cursive;
+	color: #4d0048;
+	padding-top: 50px;
+}
+
+.navbar {
+	width: 100%;
+	height: 50px;
+	background-color: black;
+	font-size: 1.75rem;
+	text-align: center;	
+	font-family: 'Istok Web', sans-serif;
+}
+
+.text_two {
+	width: 100%;
+	font-size: 2rem;
+	color: white;
+	text-align: center;
+}
+
+li {
+	display: inline;
+}
+
+.container {
+	width: 100%;
+	height: 100%;
+	background-color: #80713a;
+}
+
+.boxone {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 5%;
+	background-image: url(https://4.bp.blogspot.com/-Jv4hMw-l4so/WNz9Tult4EI/AAAAAAAAA60/6MJHHNGGMOUnHG5RI3Uhj6_BaSSuiDTUwCLcB/s1600/game_three.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.boxtwo {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 5%;
+	margin-bottom: 10%;
+	background-image: url(https://4.bp.blogspot.com/-2X58Sb4JUXc/WNz9TwTXAZI/AAAAAAAAA64/k8YjbzkPz54N5nh1Y7b4MAvfOY1TqsfFQCLcB/s1600/game_six.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.boxthree {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 5%;
+	margin-bottom: 10%;
+	background-image: url(https://1.bp.blogspot.com/-ayuf65vEeOk/WNz9TQ1hjmI/AAAAAAAAA6s/dDNe6CHZPAY1-T8HebYrvO0DnRdI4ENEgCLcB/s1600/game_five.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.boxfour {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 5%;
+	background-image: url(https://3.bp.blogspot.com/-p-REFTO_SW8/WNz9T4qPy_I/AAAAAAAAA68/OjNLO8GwBpE_U54gpMU7IB_XMcew7LLrQCLcB/s1600/game_two.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.boxfive {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 5%;
+	background-image: url(https://1.bp.blogspot.com/-feKYuDsMRUU/WNz9Tdvq7xI/AAAAAAAAA6o/EONDARb2WBEkpsAfbVea2bhmCQrx1eA7wCLcB/s1600/game_one.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.boxsix {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 5%;
+	background-image: url(https://1.bp.blogspot.com/-b90V_8EAfYM/WNz9TeE182I/AAAAAAAAA6w/Af1t0HLZt-A_DwRBS42ZjBtp21nLFbRJACLcB/s1600/game_four.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.boxseven {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 5%;
+	background-image: url(https://4.bp.blogspot.com/-qBzvyEgyHdA/WNPePBwTRgI/AAAAAAAAA18/3ppmfO5JchcIoHM_h8cP5iTs-8UoagAbwCLcB/s1600/game_one.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.boxeight {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 5%;
+	background-image: url(https://3.bp.blogspot.com/-egGI26yv2u0/WNPencdMdMI/AAAAAAAAA2A/W9J5QmGIQycHVtk3xs6MGs5mra9oA4IyQCLcB/s1600/game_two.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.boxnine {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 5%;
+	background-image: url(https://3.bp.blogspot.com/-62FV1sj-vwI/WNz3U1ABixI/AAAAAAAAA6Q/PV8JnB0wdQA9Fk2uPkeZg4oSgjfEMr63QCLcB/s1600/22.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.boxten {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 5%;
+	background-image: url(https://3.bp.blogspot.com/-VvwKXjuxbv0/WNz3U12R-yI/AAAAAAAAA6I/tNJYejqNeW8iROR3XZ4znUi_BtQSTHM2gCLcB/s1600/23.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.boxeleven {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 5%;
+	background-image: url(https://3.bp.blogspot.com/-hxoY4hEUmSI/WNz3U4oSKKI/AAAAAAAAA6M/D9gZXNJAgCAKw87MpzmFzJ4kGj96bXqCgCLcB/s1600/24.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.boxtwelve {
+	width: 80%;
+	height: 60%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 5%;
+	background-image: url(https://2.bp.blogspot.com/-XUNzhUv3nhM/WNz3VMLhElI/AAAAAAAAA6Y/XuqvSmir8qcdRPn6M5w4uX1CIvVc9AZ1ACLcB/s1600/25.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.body {
+	background-color: #80713a;
+}
+
+@media (min-width: 750px) {
+	.topbar {
+	width: 100%;
+	height: 200px;
+	background-color: #dbc64e;
+	font-size: 100px;
+	text-align: center;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.navbar {
+	width: 100%;
+	height: 50px;
+	background-color: black;
+	font-size: 3rem;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	height: 100%;
+	background-color: #80713a;
+}
+
+.boxone{
+	width: 20%;
+	height: 40%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 5%;
+}
+
+.boxtwo {
+	width: 20%;
+	height: 40%;
+	background-color: black;
+	margin-right: 5%;
+	margin-top: 5%;
+}
+
+.boxthree {
+	width: 20%;
+	height: 40%;
+	background-color: black;
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+.boxfour {
+	width: 20%;
+	height: 40%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 0%;
+}
+
+.boxfive {
+	width: 20%;
+	height: 40%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 0%;
+}
+
+.boxsix {
+	width: 20%;
+	height: 40%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 0%;
+}
+
+.boxseven {
+	width: 20%;
+	height: 40%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 10%;
+}
+
+.boxeight {
+	width: 20%;
+	height: 40%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 10%;
+}
+
+.boxnine {
+	width: 20%;
+	height: 40%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 10%;
+}
+
+.boxten {
+	width: 20%;
+	height: 40%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 10%;
+}
+
+.boxeleven {
+	width: 20%;
+	height: 40%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 10%;
+}
+
+.boxtwelve {
+	width: 20%;
+	height: 40%;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: 10%;
+}
+
+.body {
+	background-color: #80713a;
+}
